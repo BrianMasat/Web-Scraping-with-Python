@@ -1,0 +1,5 @@
+About this project:
+
+This project utilizes web scraping techniques in Python to extract data from two different sources on Wikipedia. Through the BeautifulSoup library, the HTML content of the pages is parsed, and specific tables are extracted. After abstracting the data, a small and basic exploratory data analysis (EDA) is conducted by creating visualizations. These visualizations help gain insights and understand the patterns or relationships in the data. By using libraries such as Matplotlib or Squarify, the extracted data is plotted in charts and graphs, allowing for a better understanding of the data distribution, trends, or correlations.
+
+Note: The codes' introduction of the notebook cannot be translated automatically. For this reason, translation into other languages (English, Spanish, and Italian) has been provided.

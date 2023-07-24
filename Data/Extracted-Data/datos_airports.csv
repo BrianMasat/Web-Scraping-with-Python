@@ -1,0 +1,235 @@
+Position,Country,Airports,Year
+1,Estados Unidos,15095,2022
+2,Brasil,4093,2022
+4,Canadá,1467,2015
+5,Rusia,1218,2015
+6,Argentina,1138,2015
+7,Bolivia,855,2015
+8,Colombia,835,2015
+9,Paraguay,799,2015
+10,Indonesia,673,2015
+11,Sudáfrica,566,2015
+12,Papúa Nueva Guinea,561,2015
+13,Alemania,539,2015
+14,China,507,2015
+15,Chile,481,2015
+16,Australia,480,2015
+17,Francia,464,2015
+18,Reino Unido,460,2015
+19,Venezuela,444,2015
+20,Ecuador,432,2015
+21,Guatemala,402,2022
+22,India,346,2015
+23,Irán,319,2015
+24,Filipinas,247,2015
+25,Suecia,231,2015
+26,Arabia Saudí,214,2015
+27,República Democrática del Congo,198,2015
+28,Kenia,197,2015
+29,Zimbabue,196,2013
+30,Perú,191,2013
+31,Ucrania,187,2013
+32,Angola,176,2013
+33,Japón,175,2013
+34,Tanzania,166,2013
+35,Costa Rica,161,2013
+36,Argelia,157,2013
+37,Pakistán,151,2013
+38,España,150,2013
+39,Finlandia,148,2013
+40,Nicaragua,147,2013
+41,Libia,141,2013
+42,Uruguay,133,2013
+43,Cuba,133,2013
+44,Omán,132,2013
+45,Italia,129,2013
+46,República Checa,128,2013
+47,Polonia,126,2013
+48,Nueva Zelanda,123,2013
+49,Panamá,117,2013
+50,Guyana,117,2013
+51,Malasia,114,2013
+52,Namibia,112,2013
+53,Corea del Sur,111,2013
+54,Honduras,103,2013
+55,Irak,102,2013
+56,Tailandia,101,2013
+57,Mozambique,98,2013
+58,Turquía,98,2013
+59,Kazajistán,96,2013
+60,Islandia,96,2013
+61,Noruega,95,2013
+62,Siria,90,2013
+63,Zambia,88,2013
+64,Sudán del Sur,85,2013
+65,Madagascar,83,2013
+66,Egipto,83,2013
+67,Corea del Norte,82,2013
+68,Dinamarca,80,2013
+69,Grecia,77,2013
+70,Botsuana,74,2013
+71,Sudán,74,2013
+72,Croacia,69,2013
+73,Bulgaria,68,2013
+74,El Salvador,68,2013
+75,Bielorrusia,65,2013
+76,Birmania,64,2013
+77,Portugal,64,2013
+78,Suiza,63,2013
+79,Lituania,61,2013
+80,Bahamas,61,2013
+81,Somalia,61,2013
+82,Chad,59,2013
+83,Etiopía,57,2013
+84,Yemen,57,2013
+85,Surinam,55,2013
+86,Marruecos,55,2013
+87,Polinesia Francesa,54,2013
+88,Nigeria,54,2013
+89,Uzbekistán,53,2013
+90,Austria,52,2013
+91,Afganistán,52,2013
+92,Belice,47,2013
+93,Uganda,47,2013
+94,Israel,47,2013
+95,Nepal,47,2013
+96,Rumanía,45,2013
+97,Vietnam,45,2013
+98,Mongolia,44,2013
+99,Gabón,44,2013
+100,Emiratos Árabes Unidos,43,2013
+101,Letonia,42,2013
+102,Bélgica,41,2013
+103,Laos,41,2013
+104,Hungría,41,2013
+105,Irlanda,40,2013
+106,República Centroafricana,39,2013
+107,Taiwán,37,2013
+108,Azerbaiyán,37,2013
+109,Islas Salomón,36,2013
+110,República Dominicana,36,2013
+111,Eslovaquia,35,2013
+112,Camerún,33,2013
+113,Malaui,32,2013
+114,Vanuatu,31,2013
+115,Níger,30,2013
+116,Mauritania,30,2013
+117,Liberia,29,2013
+118,Túnez,29,2013
+119,Puerto Rico,29,2013
+120,Países Bajos,29,2013
+121,Fiyi,28,2008
+122,Kirguistán,28,2013
+123,Jamaica,28,2013
+124,Costa de Marfil,27,2013
+125,República del Congo,27,2013
+126,Turkmenistán,26,2013
+127,Serbia,26,2013
+128,Nueva Caledonia,25,2013
+129,Malí,25,2013
+130,Bosnia y Herzegovina,24,2013
+131,Tayikistán,24,2013
+132,Lesoto,24,2013
+133,Burkina Faso,23,2013
+134,Antártida,23,2013
+135,Georgia,22,2013
+136,Senegal,20,2013
+137,Sri Lanka,19,2013
+138,Kiribati,19,2013
+139,Bangladés,18,2013
+140,Jordania,18,2013
+141,Estonia,18,2013
+142,Camboya,16,2013
+143,Eslovenia,16,2013
+144,Guinea,16,2013
+145,Chipre,15,2013
+146,Islas Marshall,15,2013
+147,Groenlandia,15,2013
+148,Haití,14,2013
+149,Suazilandia,14,2013
+150,Seychelles,14,2013
+151,Eritrea,13,2013
+152,Yibuti,13,2013
+153,Islas Cook,11,2013
+154,Armenia,11,2013
+155,Macedonia del Norte,10,2013
+156,Ghana,10,2013
+157,Cabo Verde,9,2013
+158,Singapur,9,2013
+159,Maldivas,9,2013
+160,Guinea-Bisáu,8,2013
+161,Líbano,8,2013
+162,Islas Turcas y Caicos,8,2013
+163,Togo,8,2013
+164,Sierra Leona,8,2013
+165,Burundi,7,2013
+166,Guinea Ecuatorial,7,2013
+167,Ruanda,7,2013
+168,Kuwait,7,2013
+169,Moldavia,7,2013
+170,Islas Malvinas,7,2013
+171,Benín,6,2013
+172,Kosovo,6,2013
+173,Estados Federados de Micronesia,6,2013
+174,Sáhara Occidental,6,2013
+175,San Vicente y las Granadinas,6,2013
+176,Timor Oriental,6,2008
+177,Tonga,6,2013
+178,Catar,6,2013
+179,Guam,5,2013
+180,Islas Marianas del Norte,5,2013
+181,Montenegro,5,2013
+182,Mauricio,5,2013
+183,Svalbard y Jan Mayen,5,2013
+184,Albania,4,2013
+185,Baréin,4,2013
+186,Comoras,4,2013
+187,Trinidad y Tobago,4,2013
+188,Samoa,4,2013
+189,Islas Spratly,4,2013
+190,Islas Vírgenes Británicas,4,2013
+191,Territorios Australes Franceses,4,2013
+192,Samoa Americana,3,2013
+193,Antigua y Barbuda,3,2013
+194,Palaos,3,2013
+195,Granada,3,2013
+196,Islas Caimán,3,2013
+197,Anguila,2,2013
+198,Bután,2,2013
+199,Dominica,2,2013
+200,Guernsey,2,2013
+201,Hong Kong,2,2013
+202,Luxemburgo,2,2013
+203,Cisjordania,2,2013
+204,Santa Lucía,2,2013
+205,San Pedro y Miquelón,2,2013
+206,Santo Tomé y Príncipe,2,2013
+207,Islas Vírgenes de los Estados Unidos,2,2013
+208,Wallis y Futuna,2,2013
+209,San Cristóbal y Nieves,2,2013
+210,Aruba,1,2013
+211,Isla Wake,1,2013
+212,Bermudas,1,2013
+213,Territorio Británico del Océano Índico,1,2013
+214,Brunéi,1,2013
+215,Isla de Navidad,1,2013
+216,Islas Cocos,1,2013
+217,Islas Feroe,1,2013
+218,Gambia,1,2013
+219,Franja de Gaza,1,2013
+220,Gibraltar,1,2013
+221,Isla de Man,1,2013
+222,Jersey,1,2013
+223,Macao,1,2013
+224,Malta,1,2013
+225,Montserrat,1,2013
+226,Nauru,1,2013
+227,Niue,1,2013
+228,Isla Norfolk,1,2013
+229,Islas Paracelso,1,2013
+230,San Bartolomé (Francia),1,2013
+231,"Santa Helena, Ascensión y Tristán de Acuña",1,2013
+232,San Martín (Francia),1,2013
+233,San Martín (Países Bajos),1,2013
+234,Tuvalu,1,2013
+235,Barbados,1,2013
