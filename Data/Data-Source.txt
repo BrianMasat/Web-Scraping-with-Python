@@ -1,3 +1,0 @@
-Data source: Wikipedia (https://www.wikipedia.org)
-
-This project utilizes data extracted from Wikipedia, the free encyclopedia, under the Creative Commons Attribution-ShareAlike 3.0 Unported License (CC BY-SA 3.0). The data is licensed under the CC BY-SA 3.0, which allows for copying, distribution, and transmission of the work, as well as adaptation and remixing for any purpose, even commercially. I acknowledge and give credit to Wikipedia and its contributors for providing the valuable information used in this project.
